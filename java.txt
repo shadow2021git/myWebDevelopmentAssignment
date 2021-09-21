@@ -1,0 +1,112 @@
+
+
+
+
+It is used for:
+
+Mobile applications (specially Android apps)
+Desktop applications
+Web applications
+Web servers and application servers
+Games
+Database connection
+
+
+Why Use Java?
+
+Java works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.)
+It is one of the most popular programming language in the world
+It is easy to learn and simple to use
+It is open-source and free
+It is secure, fast and powerful
+It has a huge community support (tens of millions of developers)
+Java is an object oriented language which gives a clear structure to programs and allows code to be reused, lowering development costs
+As Java is close to C++ and C#, it makes it easy for programmers to switch to Java or vice versa
+
+
+
+
+
+
+
+
+
+
+
+
+components
+
+JVM (Java Virtual Machine)
+
+It is an abstract machine. It is a specification that provides a run-time environment in which the bytecode can be executed. It follows three notations:
+
+Specification: It is a document that describes the implementation of the JVM. It is provided by Sun and other companies.
+Implementation: It is a program that meets the requirements of JVM specification.
+Runtime Instance: An instance of JVM is created whenever you write a command on the command prompt and run the class.
+
+JRE (Java Runtime Environment)
+
+JRE refers to a runtime environment in which bytecode can be executed. It implements the JVM and provides all the class libraries and other support files that JVM uses at runtime. So JRE is a software package that contains what is required to run a program. Basically, it’s an implementation of the JVM which physically exists
+
+
+JDK(Java Development Kit)
+
+It is the tool necessary to:-
+
+Compile
+Document
+Package Java programs.
+The JDK completely includes JRE which contains tools for programmers. The Development Kit is provided free of charge. Along with JRE, it includes an interpreter/loader, a compiler (javac), an archiver (jar), a documentation generator and other tools needed in Java development. In short, it contains JRE + development tools
+
+
+
+
+Top 10 Reasons to Learn Java
+
+Java's Popularity and High Salary: ...
+Java is Easy to Learn: ...
+Java has a Large Community: ...
+Java has an abundant API: ...
+Java has multiple Open Source Libraries: ...
+Java has Powerful Development Tools: ...
+Java is Free of Cost: ...
+Java is Platform Independent
+
+
+Java is a practical choice for developing Android apps as it can be used to create highly functional programs and platforms. This object-oriented programming language does not require a specific hardware infrastructure, is easily manageable, and has a good level of security.
+
+
+
+Advantages of Java
+Java is Simple. ...
+Java is an Object-Oriented Programming language. ...
+Java is a secure language. ...
+Java is cheap and economical to maintain. ...
+Java is platform-independent. ...
+Java supports portability feature. ...
+Java provides Automatic Garbage Collection. ...
+Java supports Multithreading.
+
+
+Java was designed to be easy to use and is therefore easy to write, compile, debug, and learn than other programming languages. Java is object-oriented. This allows you to create modular programs and reusable code. Java is platform-independent.
+
+
+
+
+Future of java
+
+
+Java has and will continue to have a very good future. Software that solves specific purposes like ERP, CRMs, cloud internal software, Orchestration frameworks, IDMs, etc, have been built using Java. Since this has taken years to build them they will continue to use them now and in the future.
+
+Java has a Java virtual machine, which is used by other technologies such as Kotlin and Scala. Moreover, developers can write the same code that will function on various OS (operating systems) like Linux and Microsoft Windows. Among other reasons why Java won’t fade away soon, we can state the following:
+
+It’s an excellent choice for creating streaming apps thanks to its reactive function.
+Java is still used in web, mobile development, big data, IoT (Internet of Things), blockchain, and artificial intelligence.
+It’s possible to develop FaaS (function as a service) and serverless apps with a robust functionality.
+Java keeps pace with the progress and updates its versions faster than several years ago. For instance, Java 15 was released just in 6 months after Java 14. In the previous versions like Java 8-13, it took up to 5-6 years.
+AirBnb, Uber, Netflix, and other tech giants are still implementing Java in their development processes
+
+
+
+
+

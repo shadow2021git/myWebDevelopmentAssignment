@@ -1,0 +1,28 @@
+body{background-color:#f7e4ad;}
+
+h1{font-family:Arial Black;
+text-align:center;
+padding:8px;
+background-color:#fadd8c;
+color:#f5a802
+}
+
+h3{font-family:Arial Black;
+text-align:center;
+padding:8px;
+background-color:#fadd8c;
+color:#f5a802
+}
+
+table{border:1px solid #7a5b00;background-color:white;}
+td {padding:4px;font-family:verdana;font-size:20px;color:#f5a802;}
+
+.beauty{
+background-color:white;
+color:black;
+font-family:verdana;
+border:5px solid #7a5b00;
+border-radius:10px;
+margin:20px;
+padding:20px;
+}
